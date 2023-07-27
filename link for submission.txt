@@ -1,0 +1,15 @@
+Hi, please find the project Github link below:
+
+GitHub: https://github.com/LaveenaMaharshi/Javascript-Sports-Quiz.git
+
+Deployed: https://laveenamaharshi.github.io/Javascript-Sports-Quiz/
+
+
+Tried to use dummy api for the quiz but unable to set answer options the randomly.
+Please check the dummy api and suggest how I can achieve the same output using API,
+I already did the fetching the data, Applied reading and writing of question but 
+couldn't randomly write the answer options.
+
+
+DUMMYAPI:
+https://opentdb.com/api.php?amount=10&category=21&difficulty=easy&type=multiple
