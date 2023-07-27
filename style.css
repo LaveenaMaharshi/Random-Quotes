@@ -1,0 +1,50 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Aladin-Regular.ttf);
+ }
+ 
+
+body {
+    font-family: myFirstFont;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.quote-container {
+    background-color: #fff;
+    width:30%;
+    height: 30%;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 16px 18px 11px -1px rgba(105,98,105,0.8);
+}
+
+.quote {
+    display:flex;
+    flex-direction: column;
+    margin-top: 20px;
+    padding:30px 50px;
+    letter-spacing: 0.5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.qoute p{
+    align-self: flex-end;
+    justify-content: flex-end;
+}
+
+.btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
